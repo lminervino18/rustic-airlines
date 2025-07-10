@@ -1,0 +1,11 @@
+[package]
+name = "simulator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+threadpool = "1.8"
+driver = { path = "../driver" }
+native_protocol = { path = "../native_protocol" }
+chrono = "0.4.38"
+rand = "0.8"

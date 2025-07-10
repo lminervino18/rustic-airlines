@@ -1,0 +1,10 @@
+[package]
+name = "node_launcher"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Dependencias específicas para el crate `node`
+node = { path = "../node" }  # Ejemplo de cómo referenciar la librería `node`
+
+

@@ -1,0 +1,9 @@
+[package]
+name = "gossip"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+query-creator = { path = "../query-creator" }
+chrono = "0.4.38"

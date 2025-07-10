@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512">
+  <defs>
+    <!-- Degradado de fondo -->
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3f94d9;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0465bf;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Fondo del pin con borde -->
+  <path fill="url(#grad1)" stroke="#ffffff" stroke-width="20" d="M384 192c0 87.4-117 243-168.3 307.2c-12.3 15.3-35.1 15.3-47.4 0C117 435 0 279.4 0 192C0 86 86 0 192 0S384 86 384 192z"/>
+  <!-- Círculo central -->
+  <circle cx="192" cy="192" r="50" fill="#ffffff" />
+</svg>

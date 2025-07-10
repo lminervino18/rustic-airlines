@@ -1,0 +1,8 @@
+[package]
+name = "driver"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+native_protocol = { path = "../native_protocol" }
+rustls = { version = "0.23.19", features = ["ring"] }

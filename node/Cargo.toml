@@ -1,0 +1,23 @@
+[package]
+name = "node"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Dependencias específicas para el crate `node`
+partitioner = { path = "../partitioner" }         # Ejemplo de cómo referenciar la librería `partitioner`
+query-creator = { path = "../query-creator" }     # Ejemplo de cómo referenciar la librería `partitioner`
+driver = { path = "../driver" }
+native_protocol = { path = "../native_protocol" }
+gossip = { path = "../gossip" }
+logger = { path = "../logger" }
+chrono = "0.4"
+rustls = "0.23.19"
+
+[dependencies.uuid]
+version = "1.11.0"
+features = [
+    "v4",                # Lets you generate random UUIDs
+    "fast-rng",          # Use a faster (but still sufficiently random) RNG
+    "macro-diagnostics", # Enable better diagnostics for compile-time UUIDs
+]

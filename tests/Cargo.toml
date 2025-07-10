@@ -1,0 +1,13 @@
+[workspace]
+members = [
+    "node_launcher",      # Crate que lanza los nodos
+    "driver",             # Crate que implementa CassandraClient
+    "graphical-interface",# Otros crates en el proyecto
+    "native_protocol",
+    "node",
+    "partitioner",
+    "query-creator",
+    "rustic-airlines",
+    "gossip",
+    "storage_engine",
+]

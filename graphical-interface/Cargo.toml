@@ -1,0 +1,21 @@
+[package]
+name = "graphical-interface"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+egui = "0.29.0"
+eframe = "0.29.0"
+walkers = "0.27.0"
+driver = { path = "../driver" }
+native_protocol = { path = "../native_protocol" }
+egui_extras = { version = "0.29.1", features = ["chrono", "image", "all_loaders", "svg"] }
+chrono = "0.4.38"
+csv = "1.3.0"
+serde = { version = "1.0.214", features = ["derive"] }
+image = { version = "0.25", features = ["png"] } # Add the types you want support for
+rustls = "0.23.19"
+
+[lib]
+name = "graphical_interface"
+path = "src/lib.rs"

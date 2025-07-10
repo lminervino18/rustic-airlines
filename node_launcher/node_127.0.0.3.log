@@ -1,0 +1,268 @@
+[INFO] [2024-12-16 20:00:45]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:00:46]: NEW NODE 127.0.0.5 .. New Ring: 127.0.0.1 -> 127.0.0.5 -> 127.0.0.3
+[INFO] [2024-12-16 20:00:46]: START REDISTRIBUTION...
+[INFO] [2024-12-16 20:00:46]: END REDISTRIBUTION...
+[INFO] [2024-12-16 20:00:46]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:00:47]: NEW NODE 127.0.0.2 .. New Ring: 127.0.0.1 -> 127.0.0.2 -> 127.0.0.5 -> 127.0.0.3
+[INFO] [2024-12-16 20:00:47]: NEW NODE 127.0.0.4 .. New Ring: 127.0.0.1 -> 127.0.0.2 -> 127.0.0.5 -> 127.0.0.3 -> 127.0.0.4
+[INFO] [2024-12-16 20:00:47]: START REDISTRIBUTION...
+[INFO] [2024-12-16 20:00:47]: END REDISTRIBUTION...
+[INFO] [2024-12-16 20:00:47]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:00:48]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:00:49]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:00:50]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:00:51]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:00:52]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:00:53]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:00:54]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:00:55]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:00:56]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:00:57]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:00:58]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:00:59]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:00]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:01]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:02]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:03]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:04]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:05]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:06]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:07]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:08]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:09]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:10]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:11]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:12]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:13]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:14]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:15]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:16]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:17]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:18]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:19]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:20]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:21]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:22]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:23]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:24]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:25]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:26]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:27]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:28]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:29]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:30]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:31]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:32]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:33]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:34]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:35]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:36]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:37]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:38]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:39]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:40]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:41]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:42]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:43]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:44]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:45]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:46]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:47]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:48]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:49]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:50]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:51]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:52]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:53]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:54]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 26): I RECEIVED "INSERT INTO sky.flights (number, status, lat, lon, angle, departure_time, arrival_time, airport, direction) VALUES (AEP8502, scheduled, -34.553, -58.413, 187.96289, 1734379315, 1734390115, MDZ, arrival)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 26): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 32): I RECEIVED "INSERT INTO sky.flights (number, status, lat, lon, angle, departure_time, arrival_time, airport, direction) VALUES (AEP9301, scheduled, -34.553, -58.413, 187.96289, 1734379315, 1734390115, MDZ, arrival)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 32): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 37): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -34.553, lon = -58.413 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = AEP8502" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 37): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 40): I RECEIVED "INSERT INTO sky.flight_info (number, fuel, height, speed, origin, destination) VALUES (EZE3646, 100, 35000, 430, EZE, NQN)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 40): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 41): I RECEIVED "INSERT INTO sky.flights (number, status, lat, lon, angle, departure_time, arrival_time, airport, direction) VALUES (COR4308, scheduled, -31.321, -64.213, 263.35355, 1734379315, 1734390115, COR, departure)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 41): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 46): I RECEIVED "INSERT INTO sky.flight_info (number, fuel, height, speed, origin, destination) VALUES (ROS3219, 100, 35000, 513, ROS, VDM)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 46): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 53): I RECEIVED "INSERT INTO sky.flights (number, status, lat, lon, angle, departure_time, arrival_time, airport, direction) VALUES (MDZ5556, scheduled, -32.883, -68.845, 2.7415433, 1734379315, 1734390115, MDZ, departure)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 53): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 56): I RECEIVED "INSERT INTO sky.flights (number, status, lat, lon, angle, departure_time, arrival_time, airport, direction) VALUES (MDZ5281, scheduled, -32.883, -68.845, 292.10233, 1734379315, 1734400915, MDZ, departure)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 56): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 59): I RECEIVED "INSERT INTO sky.flights (number, status, lat, lon, angle, departure_time, arrival_time, airport, direction) VALUES (MDZ6652, scheduled, -32.883, -68.845, 330.6616, 1734379315, 1734382915, MDZ, departure)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 59): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 66): I RECEIVED "INSERT INTO sky.flights (number, status, lat, lon, angle, departure_time, arrival_time, airport, direction) VALUES (USH5914, scheduled, -54.843, -68.295, 278.70145, 1734379315, 1734400915, COR, arrival)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 66): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 70): I RECEIVED "INSERT INTO sky.flight_info (number, fuel, height, speed, origin, destination) VALUES (USH7468, 100, 35000, 567, USH, RGL)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 70): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 79): I RECEIVED "INSERT INTO sky.flight_info (number, fuel, height, speed, origin, destination) VALUES (CRD4421, 100, 35000, 467, CRD, REL)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 79): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 82): I RECEIVED "INSERT INTO sky.flight_info (number, fuel, height, speed, origin, destination) VALUES (CRD1289, 100, 35000, 545, CRD, RES)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 82): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 84): I RECEIVED "INSERT INTO sky.flights (number, status, lat, lon, angle, departure_time, arrival_time, airport, direction) VALUES (NQN7277, scheduled, -38.949, -68.156, 294.07593, 1734379315, 1734390115, COR, arrival)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 84): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 85): I RECEIVED "INSERT INTO sky.flight_info (number, fuel, height, speed, origin, destination) VALUES (NQN7277, 100, 35000, 497, NQN, COR)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 85): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 88): I RECEIVED "INSERT INTO sky.flight_info (number, fuel, height, speed, origin, destination) VALUES (SLA3810, 100, 35000, 597, SLA, AEP)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 88): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 90): I RECEIVED "INSERT INTO sky.flights (number, status, lat, lon, angle, departure_time, arrival_time, airport, direction) VALUES (SLA1779, scheduled, -24.854, -65.486, 109.32869, 1734379315, 1734382915, MDZ, arrival)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 90): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 99): I RECEIVED "INSERT INTO sky.flights (number, status, lat, lon, angle, departure_time, arrival_time, airport, direction) VALUES (JUJ3386, scheduled, -24.392, -65.097, 83.767365, 1734379315, 1734390115, COR, arrival)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 99): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 103): I RECEIVED "INSERT INTO sky.flight_info (number, fuel, height, speed, origin, destination) VALUES (TUC5866, 100, 35000, 505, TUC, NQN)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:55]: INTERNODE (Query: 103): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:56]: INTERNODE (Query: 114): I RECEIVED "INSERT INTO sky.flights (number, status, lat, lon, angle, departure_time, arrival_time, airport, direction) VALUES (PSS8172, scheduled, -27.385, -55.97, 150.5806, 1734379315, 1734400915, MDZ, arrival)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:56]: INTERNODE (Query: 114): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:56]: INTERNODE (Query: 126): I RECEIVED "INSERT INTO sky.flights (number, status, lat, lon, angle, departure_time, arrival_time, airport, direction) VALUES (CTC1724, scheduled, -28.448, -65.78, 119.95935, 1734379315, 1734386515, MDZ, arrival)" from 127.0.0.1
+[INFO] [2024-12-16 20:01:56]: INTERNODE (Query: 126): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:56]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:57]: INTERNODE (Query: 133): I RECEIVED "SELECT number,status,lat,lon,angle,departure_time,arrival_time,direction FROM sky.flights WHERE airport = MDZ AND direction = departure AND arrival_time > 1734307200" from 127.0.0.1
+[INFO] [2024-12-16 20:01:57]: INTERNODE (Query: 133): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:57]: INTERNODE (Query: 141): I RECEIVED "SELECT number,status,lat,lon,angle,departure_time,arrival_time,direction FROM sky.flights WHERE airport = COR AND direction = departure AND arrival_time > 1734307200" from 127.0.0.1
+[INFO] [2024-12-16 20:01:57]: INTERNODE (Query: 141): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:57]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:57]: INTERNODE (Query: 152): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -28.448, lon = -65.78 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734386515 AND number = CTC1724" from 127.0.0.1
+[INFO] [2024-12-16 20:01:57]: INTERNODE (Query: 152): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:57]: INTERNODE (Query: 155): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -32.883, lon = -68.845 WHERE airport = MDZ AND direction = departure AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = MDZ5556" from 127.0.0.1
+[INFO] [2024-12-16 20:01:57]: INTERNODE (Query: 155): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:57]: INTERNODE (Query: 163): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -32.883, lon = -68.845 WHERE airport = MDZ AND direction = departure AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = MDZ5556" from 127.0.0.1
+[INFO] [2024-12-16 20:01:57]: INTERNODE (Query: 163): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:57]: INTERNODE (Query: 170): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -54.843, lon = -68.295 WHERE airport = COR AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734400915 AND number = USH5914" from 127.0.0.1
+[INFO] [2024-12-16 20:01:57]: INTERNODE (Query: 170): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 177): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -32.883, lon = -68.845 WHERE airport = MDZ AND direction = departure AND departure_time = 1734379315 AND arrival_time = 1734400915 AND number = MDZ5281" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 177): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 183): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -31.321, lon = -64.213 WHERE airport = COR AND direction = departure AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = COR4308" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 183): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 191): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -32.883, lon = -68.845 WHERE airport = MDZ AND direction = departure AND departure_time = 1734379315 AND arrival_time = 1734382915 AND number = MDZ6652" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 191): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 196): I RECEIVED "UPDATE sky.flights SET lat = -34.49620120598408, lon = -58.76780540070303, angle = 187.96289 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = AEP8502" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 196): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 207): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -24.392, lon = -65.097 WHERE airport = COR AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = JUJ3386" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 207): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 211): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -27.385, lon = -55.97 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734400915 AND number = PSS8172" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 211): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 215): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -24.392, lon = -65.097 WHERE airport = COR AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = JUJ3386" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 215): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 219): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -24.854, lon = -65.486 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734382915 AND number = SLA1779" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 219): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 223): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -34.553, lon = -58.413 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = AEP9301" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 223): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 225): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -38.949, lon = -68.156 WHERE airport = COR AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = NQN7277" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 225): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 234): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -34.553, lon = -58.413 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = AEP9301" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 234): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 246): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -28.448, lon = -65.78 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734386515 AND number = CTC1724" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 246): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 247): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -31.321, lon = -64.213 WHERE airport = COR AND direction = departure AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = COR4308" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 247): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 252): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -38.949, lon = -68.156 WHERE airport = COR AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = NQN7277" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 252): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 256): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -27.385, lon = -55.97 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734400915 AND number = PSS8172" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 256): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 260): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -54.843, lon = -68.295 WHERE airport = COR AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734400915 AND number = USH5914" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 260): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 274): I RECEIVED "UPDATE sky.flights SET status = 'on time', lat = -24.854, lon = -65.486 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734382915 AND number = SLA1779" from 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: INTERNODE (Query: 274): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:58]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 276): I RECEIVED "UPDATE sky.flights SET lat = -28.812170261036247, lon = -66.03167572718739, angle = 119.95935 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734386515 AND number = CTC1724" from 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 276): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 280): I RECEIVED "UPDATE sky.flight_info SET fuel = 99.50833333333334, speed = 505, height = 35000 WHERE number = TUC5866" from 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 280): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 281): I RECEIVED "UPDATE sky.flights SET lat = -32.88746211073225, lon = -68.29183556491603, angle = 2.7415433 WHERE airport = MDZ AND direction = departure AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = MDZ5556" from 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 281): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 291): I RECEIVED "UPDATE sky.flights SET lat = -54.43224936413632, lon = -68.22371847225595, angle = 278.70145 WHERE airport = COR AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734400915 AND number = USH5914" from 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 291): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 298): I RECEIVED "UPDATE sky.flight_info SET fuel = 99.50833333333334, speed = 567, height = 35000 WHERE number = USH7468" from 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 298): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 301): I RECEIVED "UPDATE sky.flight_info SET fuel = 99.50833333333334, speed = 597, height = 35000 WHERE number = SLA3810" from 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 301): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 305): I RECEIVED "UPDATE sky.flights SET lat = -32.46647362372765, lon = -68.66114169611721, angle = 292.10233 WHERE airport = MDZ AND direction = departure AND departure_time = 1734379315 AND arrival_time = 1734400915 AND number = MDZ5281" from 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 305): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 314): I RECEIVED "UPDATE sky.flights SET lat = -30.887765017580513, lon = -64.26827200526176, angle = 263.35355 WHERE airport = COR AND direction = departure AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = COR4308" from 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 314): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 322): I RECEIVED "UPDATE sky.flight_info SET fuel = 99.50833333333334, speed = 513, height = 35000 WHERE number = ROS3219" from 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 322): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 323): I RECEIVED "UPDATE sky.flights SET lat = -32.67830565339846, lon = -68.46546099728147, angle = 330.6616 WHERE airport = MDZ AND direction = departure AND departure_time = 1734379315 AND arrival_time = 1734382915 AND number = MDZ6652" from 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 323): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 330): I RECEIVED "UPDATE sky.flights SET lat = -34.48460961536858, lon = -58.840214666152626, angle = 187.96289 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = AEP8502" from 127.0.0.1
+[INFO] [2024-12-16 20:01:59]: INTERNODE (Query: 330): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 340): I RECEIVED "UPDATE sky.flight_info SET fuel = 99.50833333333334, speed = 430, height = 35000 WHERE number = EZE3646" from 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 340): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 342): I RECEIVED "UPDATE sky.flights SET lat = -24.770751069823124, lon = -65.0486790379963, angle = 83.767365 WHERE airport = COR AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = JUJ3386" from 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 342): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 348): I RECEIVED "UPDATE sky.flights SET lat = -27.56411334631669, lon = -56.389440584544815, angle = 150.5806 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734400915 AND number = PSS8172" from 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 348): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 355): I RECEIVED "UPDATE sky.flight_info SET fuel = 99.50833333333334, speed = 545, height = 35000 WHERE number = CRD1289" from 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 355): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 357): I RECEIVED "UPDATE sky.flights SET lat = -25.324902720704426, lon = -65.68300613262501, angle = 109.32869 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734382915 AND number = SLA1779" from 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 357): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 361): I RECEIVED "UPDATE sky.flight_info SET fuel = 99.50833333333334, speed = 467, height = 35000 WHERE number = CRD4421" from 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 361): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 363): I RECEIVED "UPDATE sky.flights SET lat = -34.459360353560896, lon = -58.9979393961992, angle = 187.96289 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = AEP9301" from 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 363): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 366): I RECEIVED "UPDATE sky.flights SET lat = -38.544055160748194, lon = -67.94667940467097, angle = 294.07593 WHERE airport = COR AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = NQN7277" from 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 366): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 367): I RECEIVED "UPDATE sky.flight_info SET fuel = 99.50833333333334, speed = 497, height = 35000 WHERE number = NQN7277" from 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: INTERNODE (Query: 367): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:00]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 378): I RECEIVED "UPDATE sky.flights SET lat = -28.873894034093237, lon = -66.07433263010051, angle = 119.95935 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734386515 AND number = CTC1724" from 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 378): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 382): I RECEIVED "UPDATE sky.flight_info SET fuel = 99.425, speed = 505, height = 35000 WHERE number = TUC5866" from 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 382): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 383): I RECEIVED "UPDATE sky.flights SET lat = -32.88821840068687, lon = -68.1980788810035, angle = 2.7415433 WHERE airport = MDZ AND direction = departure AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = MDZ5556" from 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 383): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 394): I RECEIVED "UPDATE sky.flight_info SET fuel = 99.425, speed = 597, height = 35000 WHERE number = SLA3810" from 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 394): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 400): I RECEIVED "UPDATE sky.flight_info SET fuel = 99.425, speed = 567, height = 35000 WHERE number = USH7468" from 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 400): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 402): I RECEIVED "UPDATE sky.flights SET lat = -54.362630612295014, lon = -68.21163685738408, angle = 278.70145 WHERE airport = COR AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734400915 AND number = USH5914" from 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 402): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 407): I RECEIVED "UPDATE sky.flights SET lat = -32.39587593283403, lon = -68.62997927173029, angle = 292.10233 WHERE airport = MDZ AND direction = departure AND departure_time = 1734379315 AND arrival_time = 1734400915 AND number = MDZ5281" from 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 407): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 416): I RECEIVED "UPDATE sky.flights SET lat = -30.81433535954331, lon = -64.27764014174682, angle = 263.35355 WHERE airport = COR AND direction = departure AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = COR4308" from 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 416): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 424): I RECEIVED "UPDATE sky.flight_info SET fuel = 99.425, speed = 513, height = 35000 WHERE number = ROS3219" from 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 424): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 425): I RECEIVED "UPDATE sky.flights SET lat = -32.64361169634735, lon = -68.40113235275291, angle = 330.6616 WHERE airport = MDZ AND direction = departure AND departure_time = 1734379315 AND arrival_time = 1734382915 AND number = MDZ6652" from 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 425): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 432): I RECEIVED "UPDATE sky.flights SET lat = -34.47301802475309, lon = -58.912623931602226, angle = 187.96289 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = AEP8502" from 127.0.0.1
+[INFO] [2024-12-16 20:02:01]: INTERNODE (Query: 432): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 442): I RECEIVED "UPDATE sky.flight_info SET fuel = 99.425, speed = 430, height = 35000 WHERE number = EZE3646" from 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 442): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 444): I RECEIVED "UPDATE sky.flights SET lat = -24.834946166403313, lon = -65.04048904443634, angle = 83.767365 WHERE airport = COR AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = JUJ3386" from 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 444): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 450): I RECEIVED "UPDATE sky.flights SET lat = -27.594471540607657, lon = -56.46053220904393, angle = 150.5806 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734400915 AND number = PSS8172" from 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 450): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 454): I RECEIVED "UPDATE sky.flight_info SET fuel = 99.425, speed = 467, height = 35000 WHERE number = CRD4421" from 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 454): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 457): I RECEIVED "UPDATE sky.flight_info SET fuel = 99.425, speed = 545, height = 35000 WHERE number = CRD1289" from 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 457): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 459): I RECEIVED "UPDATE sky.flights SET lat = -25.404716741162805, lon = -65.71639700256145, angle = 109.32869 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734382915 AND number = SLA1779" from 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 459): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 465): I RECEIVED "UPDATE sky.flights SET lat = -34.443489227045795, lon = -59.09708166674144, angle = 187.96289 WHERE airport = MDZ AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = AEP9301" from 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 465): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 468): I RECEIVED "UPDATE sky.flights SET lat = -38.47542044223094, lon = -67.91120133766606, angle = 294.07593 WHERE airport = COR AND direction = arrival AND departure_time = 1734379315 AND arrival_time = 1734390115 AND number = NQN7277" from 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 468): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 469): I RECEIVED "UPDATE sky.flight_info SET fuel = 99.425, speed = 497, height = 35000 WHERE number = NQN7277" from 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: INTERNODE (Query: 469): I SENT OK to coordinator node: 127.0.0.1
+[INFO] [2024-12-16 20:02:02]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:03]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:04]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:05]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:06]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:07]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:08]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:09]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:10]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:11]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:12]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:13]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:14]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:15]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:16]: GOSSIP: New Gossip Round
+[INFO] [2024-12-16 20:02:17]: GOSSIP: New Gossip Round
